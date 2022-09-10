@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The measurement of compaction can be performed in terms of ",
+      "answers": {
+        "a": "Permeability",
+        "b": "Compressibility",
+        "c": "Specific gravity",
+        "d": "Dry density"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The aim of compaction is",
+      "answers": {
+        "a": "Decreasing dry density ",
+        "b": "Increasing porosity",
+        "c": "Decreasing void ratio",
+        "d": "Decreasing shear strength"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is the correct statement? Vibratory rollers are suitable for compacting _____________.",
+      "answers": {
+        "a": "Organic soil",
+        "b": "Clays",
+        "c": "Sand and gravels",
+        "d": "Clay silts"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "As the Compaction increases, the porosity decreases.",
+      "answers": {
+        "a": "False",
+        "b": "True"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following does not produce compaction?",
+      "answers": {
+        "a": "Vibration",
+        "b": "Tamping",
+        "c": "Rolling",
+        "d": "Adding excess water"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}
