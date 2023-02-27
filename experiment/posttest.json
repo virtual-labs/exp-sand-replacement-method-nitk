@@ -2,7 +2,24 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Procedure for conducting sand replacement method is of the order. <br> (I) Place the cylinder over the tray. <br> (I) Place the tray over the ground. <br> (III) Dug the test hole. <br> (IV) Open the cylinder valve.<br> ",
+      "answers": {
+        "a": "(I),(II),(III),(IV)",
+        "b": "(II),(III),(I),(IV)",
+        "c": "(I),(III),(II),(IV)",
+        "d": "(II),(III),(IV),(I)"
+      },
+      "explanations": {
+        "a": "This option is not in order where the cylinder is placed over the tray in the first step.",
+        "b": "This option is in the correct order where the tray is placed over the ground in the first step, then a test hole is dug ,then place the cylinder over the tray and open the cylinder valve.",
+        "c": "This option is not in order where the test hole is dug in the first step. Tray has to be placed on the ground in the first step.",
+        "d": "This option is not in order where the first step is correct. In the second step a hole is dug for the test, which is incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the mass of the soil sample is 1500g and the volume of the container is 1000cm<sup>3</sup>, the density of the sample in g/cm<sup>3</sup> is______",
       "answers": {
         "a": "1500",
         "b": "1.50",
@@ -19,21 +36,55 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The principle used in the method of Submerged mass density is ________________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Floating bodies equilibrium",
+        "b": "Stokes law",
+        "c": "Principle of Archimedes",
+        "d": "Darcy's law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A floating body is said to be in equilibrium condition, if the body returns back to its original condition after applying angular displacement.",
+        "b": "The force that retards the moving sphere through a viscous fluid is directly proportional to the velocity, radius of the sphere and viscosity.",
+        "c": "This principle states that the upward buoyant force that is exerted on a body immersed in a fluid, is equal to the weight of the fluid that the body displaces.",
+        "d": "The rate of flow of liquid through a soil  medium of unit cross sectional area is directly proportional  to hydraulic gradient."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Calibration of the cylinder is carried out by ______.",
+      "answers": {
+        "a": "Gravel",
+        "b": "Sand",
+        "c": "Soil",
+        "d": "Silt"
+      },
+      "explanations": {
+        "a": "Gravel cannot be used for calibrating the cylinder, since it can not pass through the calibration cylinder.",
+        "b": "Sand is used for calibration of cylinders. ",
+        "c": "Soil cannot be used for calibration of cylinders.",
+        "d": "Silt cannot be used for calibration of cylinders."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Internal diameter of calibrating container is ________.",
+      "answers": {
+        "a": "10cm",
+        "b": "20cm",
+        "c": "30cm",
+        "d": "40cm"
+      },
+      "explanations": {
+        "a": "Correct answer. Internal diameter of the calibrating container is 10cm.",
+        "b": "Wrong answer. Internal diameter of the calibrating container is not 20cm.",
+        "c": "Wrong answer. Internal diameter of the calibrating container is not 40cm.",
+        "d": "Wrong answer. Internal diameter of the calibrating container is not 40cm."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
     }
   ]
 }
