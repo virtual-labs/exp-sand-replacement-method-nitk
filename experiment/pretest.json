@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The sand replacement method can also be called as _________ .",
+      "question": "The sand replacement method can also be called as ______________.",
       "answers": {
         "a": "Sand cone method",
         "b": "Sand bar method",
@@ -15,8 +15,8 @@
         "c": "The sand is mined, washed, screened and stored in piles. The process of drying sand to a required moisture content is the sand dry method. This is not the method for sand replacement.",
         "d": "This is the method used to estimate the texture of soil by making the soil particle settle in a jar containing water."
       },
-        "correctAnswer": "a",
-        "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     },
     {
       "question": "The codebook referred for conducting Sand Replacement method is",
