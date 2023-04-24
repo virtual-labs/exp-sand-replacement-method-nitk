@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If the mass of the soil sample is 1500g and the volume of the container is 1000cm<sup>3</sup>, the density of the sample in g/cm<sup>3</sup> is______",
+      "question": "If the mass of the soil sample is 1500g and the volume of the container is 1000cm<sup>3</sup>, the density of the sample in g/cm<sup>3</sup> is ________________ .",
       "answers": {
         "a": "1500",
         "b": "1.50",
@@ -53,7 +53,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Calibration of the cylinder is carried out by ______.",
+      "question": "Calibration of the cylinder is carried out by ________________ .",
       "answers": {
         "a": "Gravel",
         "b": "Sand",
@@ -62,7 +62,7 @@
       },
       "explanations": {
         "a": "Gravel cannot be used for calibrating the cylinder, since it can not pass through the calibration cylinder.",
-        "b": "Sand is used for calibration of cylinders. ",
+        "b": "Sand is used for calibration of cylinders.",
         "c": "Soil cannot be used for calibration of cylinders.",
         "d": "Silt cannot be used for calibration of cylinders."
       },
@@ -70,7 +70,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Internal diameter of calibrating container is ________.",
+      "question": "Internal diameter of calibrating container is________________ .",
       "answers": {
         "a": "10cm",
         "b": "20cm",

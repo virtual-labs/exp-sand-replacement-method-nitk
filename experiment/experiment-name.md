@@ -1,1 +1,1 @@
-## Determination of dry density by Sand Replacement method
+## Determination of dry density by sand replacement method
