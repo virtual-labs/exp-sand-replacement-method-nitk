@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The sand replacement method can also be called as _________ .",
+      "question": "The sand replacement method can also be called as ________________ .",
       "answers": {
         "a": "Sand cone method",
         "b": "Sand bar method",
@@ -19,7 +19,7 @@
         "difficulty": "beginner"
     },
     {
-      "question": "The codebook referred for conducting Sand Replacement method is",
+      "question": "The codebook referred for conducting Sand Replacement method is ________________ .",
       "answers": {
         "a": "IS : 2720 part 29 1974",
         "b": "IS : 2720 part 28 1974",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The full form of FDD is ________________________.",
+      "question": "The full form of FDD is ________________ .",
       "answers": {
         "a": "Full Dry Density",
         "b": "Full Dug Density",
@@ -53,7 +53,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Relative compaction is defined as the ratio of _______________________________.",
+      "question": "Relative compaction is defined as the ratio of ________________ .",
       "answers": {
         "a": "Field dry density and lab dry density.",
         "b": "Partial dry density and total dry density.",
@@ -70,7 +70,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The qualities of sand used in the sand replacement method are _______.",
+      "question": "The qualities of sand used in the sand replacement method are  ________________ .",
       "answers": {
         "a": "Dry",
         "b": "Clean ",
