@@ -1,21 +1,21 @@
-### Lab Coordinator :
+### Developer :
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
 |  1   | Dr. Pruthviraj U | NITK |
 
-### Lab Developers (Coding):
+### Contributors :
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
 |  1   | Suraj | NITK |
 |  2   | Anusha B Salian | NITK |
+|  3   | Guruprasad T N | NITK |
+|  4   | Aishwarya Shetty | NITK |
+|  5   | Ashika Pai | NITK |
+|  6   | Mahima N | NITK |
 
-### Content Developers (Subject matter):
 
-| SNo. | Name | Institute |
-| :--: | :-- | :-------: |
-|  1   | Guruprasad T N | NITK |
-|  2   | Aishwarya Shetty | NITK |
-|  3   | Ashika Pai | NITK |
-|  4   | Mahima N | NITK |
+
+
+
